@@ -1,2 +1,2 @@
 # ms-foo.properties
-properties test
+profile=default-1.0
